@@ -60,8 +60,13 @@ Right-click index.html → Open with Live Server
 
 
 Right-click → “Open With” → your browser of choice
+
+## NOTE: WHILE SWITCHING FROM DESKTOP VIEW TO MOBILE VIEW DO REFRESH TO LOAD PROPERLY AND VICE VERSA
+
+
 ### 1. Clone or Download the Repository
 
 ```bash
 git clone https://github.com/abhijith-s-2002/solar-system-animation
+
 
