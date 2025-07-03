@@ -37,10 +37,3 @@ This project demonstrates 3D rendering, animation, and real-time interactivity �
 | Buttons Layout   | Inline                       | Stacked for narrow screens     |
 
 ---
-
-## 📁 Folder Structure
-
-├── index.html # Main HTML file
-├── styles.css # Responsive styling
-├── scripts.js # Three.js 3D logic + interactions
-└── preview.png 
