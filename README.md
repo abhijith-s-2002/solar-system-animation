@@ -8,9 +8,9 @@ This project demonstrates 3D rendering, animation, and real-time interactivity �
 ## 📸 Preview
 
 ![Solar System Preview top view (desktop)](preview.png)  
-![Solar System Preview side view (desktop)](preview1.png) 
-![Solar System Preview top view (mobile)](preview2.png) 
-![Solar System Preview side view(mobile)](preview3.png) 
+![Solar System Preview side view (desktop)](preview1.png)  
+![Solar System Preview top view (mobile)](preview2.png)  
+![Solar System Preview side view (mobile)](preview3.png)  
 <sup>Top-down and side views available — works on all modern browsers and mobile devices</sup>
 
 ---
@@ -37,3 +37,31 @@ This project demonstrates 3D rendering, animation, and real-time interactivity �
 | Buttons Layout   | Inline                       | Stacked for narrow screens     |
 
 ---
+
+## 🌐 Live Demo
+
+👉 [**Click here to view the live simulation**](https://abhijith-s-2002.github.io/solar-system-animation/)  
+<sub>Replace the above link with your actual hosted site URL</sub>
+
+---
+
+## 📦 How to Run the Code
+ Open index.html in Your Browser
+No build tools or server setup required.
+
+Simply double-click on index.html
+OR
+➤ Using VS Code Live Server Extension:
+Open the folder in Visual Studio Code
+
+Install the Live Server extension
+
+Right-click index.html → Open with Live Server
+
+
+Right-click → “Open With” → your browser of choice
+### 1. Clone or Download the Repository
+
+```bash
+git clone https://github.com/abhijith-s-2002/solar-system-animation
+
